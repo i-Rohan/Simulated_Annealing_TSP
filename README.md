@@ -2,7 +2,7 @@
 
 It's a java program with GUI that solves the **Travelling Salesman Problem** using **Simulated Annealing**. Simulated Annealing is a machine learning algorithm used for optimization.
 
-######Input file specification:
+##### Input file specification:
 1. First line contains number of nodes (n)
 2. Next n lines contain the coordinates of ith node separated by space (x y)
 3. Last line contains a fixed number 9999999999
