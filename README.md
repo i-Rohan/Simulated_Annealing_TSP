@@ -7,5 +7,5 @@ It's a java program with GUI that solves the **Travelling Salesman Problem** usi
 2. Next n lines contain the coordinates of ith node separated by space (x y)
 3. Last line contains a fixed number 9999999999
 
-##Screenshots
+## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/i-Rohan/Simulated_Annealing_TSP/master/Screenshots/Screenshot%20(16).png)
